@@ -2,15 +2,6 @@ import os
 import shutil
 
 
-# file_extensions = {
-#     'fbx': 'Unsorted',
-#     'ZTL': 'Zbrush',
-#     'abc': 'Unsorted',
-#     'png': 'Unsorted',
-#     'jpg': 'Unsorted',
-#     'jpeg': 'Unsorted'
-# }
-
 asset_prefixes = {
     'SM_': 'Meshes',
     'SK_': 'Animation',
